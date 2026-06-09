@@ -6,7 +6,7 @@ pygame.init()
 
 WIDTH, HEIGHT = 640, 480
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Pallimäng – Jonatan Soomets")
+pygame.display.set_caption("Something")
 
 # Värvid
 TAEVAS = (173, 216, 230)
